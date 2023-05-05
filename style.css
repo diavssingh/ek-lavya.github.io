@@ -54,12 +54,12 @@ ui li.cat a{
 .title{
     position: absolute ;
     top: 50%;
-    left: 40%;
+    left: 38%;
     transform: translate(-50%,-50%);
     
 }
 .title h1{
-    color: #fff(250, 120, 14);
+    color: white(250, 120, 14);
     font-size: 350%;
 }
 .button{
