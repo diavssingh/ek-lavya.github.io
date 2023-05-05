@@ -23,13 +23,13 @@ ul li{
 }
 ul li a{
     text-decoration: none;
-    color: #fff;
+    color: #1fc1ee;
     padding: 5px 25px;
-    border: 2px solid #fff;
+    border: 2px solid #747765;
     transition: 0.6s ease;
 }
 ul li a:hover{
-    background-color: #fff;
+    background-color: #997cf2;
     color: #000;
 }
 ui li.cat a{
@@ -43,8 +43,8 @@ ui li.cat a{
 }
 .logo img{
     float: calc();
-     width: 200px;
-    height: 250px;
+     width: 180px;
+    height: 220px;
 }
 .main{
     max-width: 1300px;
@@ -52,34 +52,33 @@ ui li.cat a{
 }
 .title{
     position: absolute ;
-    top: 50%;
-    left: 38%;
-    color: azure;
+    top: 60%;
+    left: 60%;
+    color: rgb(168, 17, 95);
     transform: translate(-50%,-50%);
     
     
 }
 .title h1{
-    color: #fff(250, 120, 14);
     font-size: 350%;
     
 }
 .button{
     position: absolute ;
-    top: 58%;
-    left: 40%;
+    top: 70%;
+    left: 60%;
     transform: translate(-50%,-50%);
 }
 .btn{
     border: 1.5px solid #53b8eb;
     padding: 5px 25px;
     text-decoration: underline;
-    color: rgb(239, 215, 234);
+    color: rgb(157, 13, 131);
     transition: 0.6s ease;
     font-size: 150%;
 }
 .btn:hover{
-    background-color: #fff;
+    background-color: #99c1ef;
     color: #000;
     
 }
