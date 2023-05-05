@@ -4,7 +4,7 @@
     font-family: century gothicc;
 }
 header{
-    background-image: url("pic.jpg") ;
+    background-image: url(pic.jpg) ;
     height: 100vh;
     background-size: cover;
     background-position: center;
@@ -14,7 +14,7 @@ header{
 }
 ul{
     float: right;
-    list-style-type: none;
+    list-style-tyoe:0% ;
     margin-top: 23px;
      }
 
@@ -23,8 +23,7 @@ ul li{
 }
 ul li a{
     text-decoration: none;
-    blackground-color: #000
-    color: blue;
+    color: #fff;
     padding: 5px 25px;
     border: 2px solid #fff;
     transition: 0.6s ease;
@@ -55,27 +54,31 @@ ui li.cat a{
     position: absolute ;
     top: 50%;
     left: 38%;
+    color: azure;
+    transform: translate(-50%,-50%);
     
     
 }
 .title h1{
     color: #fff(250, 120, 14);
     font-size: 350%;
+    
 }
 .button{
     position: absolute ;
     top: 58%;
-    left: 40;
-    transform: translate(-60%,-60%);
+    left: 40%;
+    transform: translate(-50%,-50%);
 }
 .btn{
-    border: 1.5px solid #000;
-    padding: 5px 36px;
-    text-decoration: none;
-    transition: 06s ease;
-    font-size: 69%;
+    border: 1.5px solid #53b8eb;
+    padding: 5px 25px;
+    text-decoration: underline;
+    color: rgb(239, 215, 234);
+    transition: 0.6s ease;
+    font-size: 150%;
 }
-.btn hover{
+.btn:hover{
     background-color: #fff;
     color: #000;
     
