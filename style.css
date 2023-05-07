@@ -46,16 +46,16 @@ ui li.cat a{
 
 .title{
     position: absolute ;
-    top: 60%;
-    left: 60%;
+    top: 55%;
+    left: 854px;
     color: rgb(168, 17, 95);
     transform: translate(-50%,-50%);
     font-size: 180%;
 }
 .button{
-    position: absolute ;
+    position: absolute;
     top: 70%;
-    left: 60%;
+    left: 854px;
     transform: translate(-50%,-50%);
 }
 .btn{
