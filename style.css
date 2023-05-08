@@ -78,5 +78,15 @@ ui li.cat a{
     color: rgb(214, 26, 23);
     transform: translate(-50%,-50%);
 }
-
-   
+.helpline{
+color: rgb(43, 192, 139);
+    transform: translate(+0%,+20%);
+}
+.helpline h4
+{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 170%;
+}
+.helpline h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 280%;
+}
