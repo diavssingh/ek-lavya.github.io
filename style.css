@@ -26,7 +26,7 @@ ul li a{
     transition: 0.6s ease;
 }
 ul li a:hover{
-    background-color: #997cf2;
+    background-color: #4a7290;
     color: #000;
 }
 ui li.cat a{
@@ -80,7 +80,7 @@ ui li.cat a{
 }
 .helpline{
 color: rgb(43, 192, 139);
-    transform: translate(+0%,+20%);
+    transform: translate(+0%,+10%);
 }
 .helpline h4
 { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
