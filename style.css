@@ -85,11 +85,14 @@ color: rgb(43, 192, 139);
     font-size: 280%;
 }
 .paragraph{
+    margin-top: 13%;
+    margin-left: 3%;
+    margin-right: 3%;
    border-top-style: ridge;
    border-top: #99c1ef;
    border-top-color: aqua;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-     color: rgba(14, 162, 46, 0.521);
+     color: rgba(228, 243, 25, 0.993);
   
    
 }
