@@ -71,13 +71,7 @@ ui li.cat a{
     color: #000;
     
 }
-.text {
-    position: absolute ;
-    top: 05%;
-    left: 38%;
-    color: rgb(214, 26, 23);
-    transform: translate(-50%,-50%);
-}
+
 .helpline{
 color: rgb(43, 192, 139);
     transform: translate(+0%,+10%);
