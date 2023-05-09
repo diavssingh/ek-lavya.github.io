@@ -12,7 +12,7 @@ header{
 ul{
     float: right;
     list-style-type: none;
-    margin-top: -200px;
+    margin-top: -16%;
      }
 
 ul li{
@@ -47,7 +47,7 @@ ui li.cat a{
 .title{
     position: absolute ;
     top: 55%;
-    left: 854px;
+    left: 55%;
     color: rgb(27, 182, 179);
     transform: translate(-50%,-50%);
     font-size: 180%;
@@ -55,7 +55,7 @@ ui li.cat a{
 .button{
     position: absolute;
     top: 65%;
-    left: 854px;
+    left:55% ;
     transform: translate(-50%,-50%);
 }
 .btn{

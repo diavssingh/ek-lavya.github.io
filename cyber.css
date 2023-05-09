@@ -14,13 +14,34 @@
 
   
 }
-
+.left img{
+    float:left;
+    width:20% ;
+    height:4% ;
+}
+.img img{
+    float: right;
+    width:29% ;
+    height:18% ;
+}
 
 .std{
-    margin-top: 10%;
+    margin-top: 5%;
     margin-left: 3%;
     margin-right: 3%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-     color: rgba(138, 55, 107, 0.993);
+    
   
+}
+.std p h5{
+    text-decoration-color: rgb(143, 28, 28);
+}
+.gov
+{ border-bottom-color: rgb(65, 146, 73);
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    print-color-adjust:#5e0b1700 ;
+  border-top: 1px;
 }
