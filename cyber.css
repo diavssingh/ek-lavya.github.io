@@ -3,34 +3,24 @@
     padding: 0;
     font-family: century gothicc;
 }
-header{
-    background-color: rgb(23, 17, 17) ;
-    height: 100vh;
-    background-size: cover;
-    background-position: center;
+.header {
+    margin-top: 1%;
+    margin-left: 40%;
+   border-top-style: ridge;
+   border-top: #99c1ef;
+   border-top-color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     color: rgba(216, 150, 35, 0.993);
+
+  
 }
-header h1{
-    color: rgb(41, 176, 234);
-    font-variant: inherit;
-    position: absolute;
-    left: 45%;
-    text-decoration:underline;
-    text-shadow: 5cqb;
-    
-}
-header h2{
-    color: rgb(41, 176, 234);
-    font-style: oblique;
-    position: absolute;
-    margin-top: 3%;
-    left: 45%;
-    text-shadow: 5cqb;
-}
-header h4{
-    color: rgb(41, 176, 234);
-    font-style: oblique;
-    position: absolute ;
-    margin-top: 5%;
-    left: 45%;
-     text-shadow: 5cqb;
+
+
+.std{
+    margin-top: 10%;
+    margin-left: 3%;
+    margin-right: 3%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     color: rgba(138, 55, 107, 0.993);
+  
 }
