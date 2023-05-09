@@ -26,7 +26,7 @@ ul li a{
     transition: 0.6s ease;
 }
 ul li a:hover{
-    background-color: #997cf2;
+    background-color: #4a7290;
     color: #000;
 }
 ui li.cat a{
@@ -48,13 +48,13 @@ ui li.cat a{
     position: absolute ;
     top: 55%;
     left: 854px;
-    color: rgb(168, 17, 95);
+    color: rgb(27, 182, 179);
     transform: translate(-50%,-50%);
     font-size: 180%;
 }
 .button{
     position: absolute;
-    top: 70%;
+    top: 65%;
     left: 854px;
     transform: translate(-50%,-50%);
 }
@@ -62,7 +62,7 @@ ui li.cat a{
     border: 1.5px solid #53b8eb;
     padding: 5px 25px;
     text-decoration: underline;
-    color: rgb(157, 13, 131);
+    color: rgb(34, 140, 169);
     transition: 0.6s ease;
     font-size: 150%;
 }
@@ -74,7 +74,7 @@ ui li.cat a{
 
 .helpline{
 color: rgb(43, 192, 139);
-    transform: translate(+0%,+20%);
+    transform: translate(+0%,+10%);
 }
 .helpline h4
 { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -83,4 +83,13 @@ color: rgb(43, 192, 139);
 .helpline h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 280%;
+}
+.paragraph{
+   border-top-style: ridge;
+   border-top: #99c1ef;
+   border-top-color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     color: rgba(14, 162, 46, 0.521);
+  
+   
 }
